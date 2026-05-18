@@ -6,4 +6,4 @@ A simple speaker spotlight card built with HTML and CSS.
 
 <!-- Replace the line below with your actual Vercel URL after deploying -->
 
-https://your-project-name.vercel.app
+https://speaker-spotlight-seven.vercel.app
